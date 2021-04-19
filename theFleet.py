@@ -1,6 +1,6 @@
 from robots import robot
 
-if __name__ == '__main__':
+class the_Fleet:
     i = 0
     j = 0
 

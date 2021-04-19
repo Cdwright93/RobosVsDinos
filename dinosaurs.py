@@ -3,3 +3,4 @@ class Dinosaur:
         self.name = 'The Raptor '
         self.hp = 140
         self.attack_damage = 20
+        self.energy = 100
